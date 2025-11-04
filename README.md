@@ -91,15 +91,16 @@ kickstarter-crowdfunding-analysis/
 ## Snapshots And Demos
 ### MYSQL Table Schema Snapshot
 
-![MySQL Table Schema Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Table%20Schema%20Snapshots.png?raw=true)
-
-### Query Analysis Snapshot
-![Query Analysis Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Query%20Analysis%20Snapshots.png?raw=true)
 
 ### Tableau Dashboard Snapshot
 Highlights Yearly Trends, Goal vs Pledged Performance, and Top Category|Creators Amount Raised
 
 ![Tabluea Dashboard Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Tableau%20dashboard%20snapshot.png?raw=true)
+
+### Excel Dashboard Snapshot
+Displays KPIs like **Success % by Goal Range**, **Goal Range**, and **Success Rate over Years**  
+
+![Excel Dashboard](images/excel_dashboard_preview.png)
 
 
 📊 Project Impact
