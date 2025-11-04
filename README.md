@@ -57,6 +57,26 @@ Outcome: Highlighted post-2016 plateau in success, Q2–Q3 peaks, and the correl
 | 3️⃣ Visualization | **Tableau** | Present interactive insights |
 
 
+## 🧱 Repository Structure 
+
+kickstarter-crowdfunding-analysis/
+
+│
+├── excel/
+│ └── crowdfunding_excel_work.xlsx
+
+├── python/
+│ └── data_cleaning_python.py
+
+├── sql/
+│ └── crowdfunding_SQL_work.sql
+
+├── tableau/
+│ └── crowdfunding_dashboard.twbx
+
+├── README.md
+
+└── .gitignore
 ## 🔍 Key Findings & Insights
 
 1.**Goal Optimization Drives Success** – Campaigns with realistic goals (< $5,000) had a 40–50% higher success rate than those with larger funding targets.
@@ -68,12 +88,32 @@ Outcome: Highlighted post-2016 plateau in success, Q2–Q3 peaks, and the correl
 4.**Backer Engagement** – Projects with higher communication and early backer activity were 2× more likely to succeed.
 
 5.**Seasonal & Yearly Trends** – Tableau timeline analysis showed Q2–Q3 spikes in new projects and funding volume, with post-2016 stabilization in success trends.
-
 ## Snapshots And Demos
+### MYSQL Table Schema Snapshot
 
-![MySQL Table Schema Snapshot]("D:\Crowdfunding Project\MySQL table schema snapshot.png")
-![Query Analysis Snapshot]("D:\Crowdfunding Project\Query Analysis Snapshots.png")
+![MySQL Table Schema Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Table%20Schema%20Snapshots.png?raw=true)
+
+### Query Analysis Snapshot
+![Query Analysis Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Query%20Analysis%20Snapshots.png?raw=true)
+
+### Tableau Dashboard Snapshot
+Highlights Yearly Trends, Goal vs Pledged Performance, and Top Category|Creators Amount Raised
+
+![Tabluea Dashboard Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Tableau%20dashboard%20snapshot.png?raw=true)
 
 
-![Tabluea Dashboard Snapshot]("D:\Crowdfunding Project\Tableau dashboard snapshot.png")
 
+
+📊 Project Impact
+
+-Delivered an industry-grade analytics pipeline across multiple tools.
+
+-Provided data-driven insights into success determinants of crowdfunding campaigns.
+
+-Built interactive visual dashboards for exploring performance across years, categories, and goal levels.
+## Authors
+
+👨‍💻 Author   
+Suyash Yadav   
+📊 Data Analyst | SQL | Tableau | Excel | Python  
+🔗 [LinkedIn](https://www.linkedin.com/in/suyashh-yadav/)
