@@ -98,9 +98,9 @@ Highlights Yearly Trends, Goal vs Pledged Performance, and Top Category|Creators
 ![Tabluea Dashboard Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Tableau%20dashboard%20snapshot.png?raw=true)
 
 ### Excel Dashboard Snapshot
-Displays KPIs like **Success % by Goal Range**, **Goal Range**, and **Success Rate over Years**  
+Displays KPIs like **Success % by Goal Range**, **Top CAtegories on outcomes | Pledged VS Goal**, and **Success Rate over Years**  
 
-![Excel Dashboard](images/excel_dashboard_preview.png)
+![Excel Dashboard](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Excel%20dashboard%20snapshot.png?raw=true)
 
 
 📊 Project Impact
