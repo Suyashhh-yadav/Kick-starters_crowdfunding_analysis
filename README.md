@@ -70,8 +70,11 @@ Outcome: Highlighted post-2016 plateau in success, Q2–Q3 peaks, and the correl
 5.**Seasonal & Yearly Trends** – Tableau timeline analysis showed Q2–Q3 spikes in new projects and funding volume, with post-2016 stabilization in success trends.
 
 ## Snapshots And Demos
+### MYSQL Table Schema Snapshot
 
 ![MySQL Table Schema Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Table%20Schema%20Snapshots.png?raw=true)
+
+### Query Analysis Snapshot
 ![Query Analysis Snapshot]("D:\Crowdfunding Project\Query Analysis Snapshots.png")
 
 
