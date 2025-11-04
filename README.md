@@ -102,8 +102,6 @@ Highlights Yearly Trends, Goal vs Pledged Performance, and Top Category|Creators
 ![Tabluea Dashboard Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Tableau%20dashboard%20snapshot.png?raw=true)
 
 
-
-
 📊 Project Impact
 
 -Delivered an industry-grade analytics pipeline across multiple tools.
