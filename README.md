@@ -75,8 +75,8 @@ Outcome: Highlighted post-2016 plateau in success, Q2–Q3 peaks, and the correl
 ![MySQL Table Schema Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Table%20Schema%20Snapshots.png?raw=true)
 
 ### Query Analysis Snapshot
-![Query Analysis Snapshot]("D:\Crowdfunding Project\Query Analysis Snapshots.png")
+![Query Analysis Snapshot](https://github.com/Suyashhh-yadav/Kick-starters_crowdfunding_analysis/blob/main/Query%20Analysis%20Snapshots.png?raw=true)
 
-
+### Tableau Dashboard Snapshot
 ![Tabluea Dashboard Snapshot]("D:\Crowdfunding Project\Tableau dashboard snapshot.png")
 
